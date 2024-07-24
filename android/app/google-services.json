@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "103242257774",
+    "project_id": "parent-student-app-dede5",
+    "storage_bucket": "parent-student-app-dede5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103242257774:android:d54a844699e57deb499d7f",
+        "android_client_info": {
+          "package_name": "com.mycompany.parentstudentapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy14kSH17cXT_Hctd1FkleEn6HZrf7HAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
